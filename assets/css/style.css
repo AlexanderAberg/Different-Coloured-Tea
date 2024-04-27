@@ -103,3 +103,14 @@ margin-bottom: 1em;
     font-size: 180%;
     color: lightslategray;
 }
+
+
+#home {
+    line-height: 0;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+#purple-tea {
+    display: flex;
+}

@@ -115,8 +115,8 @@ Both got code and got inspired by Code Institutes Love Running Project and Coder
 
 ### Media
 
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
+- The photos used on the home is from https://www.freepik.com black tea from https://www.freepik.com/author/8photo red and blue from https://www.freepik.com/author/azerbaijan-stockers Ooolong from https://www.freepik.com/author/jcomp green, white and yellow from the site owner
+- The images used for the gallery page were taken from this other open source site8photo
 
 
 Congratulations on completing your Readme, you have made another big stride in the direction of being a developer! 
