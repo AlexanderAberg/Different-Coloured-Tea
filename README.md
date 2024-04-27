@@ -103,9 +103,9 @@ The live link can be found here - https://code-institute-org.github.io/love-runn
 
 ## Credits 
 
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
+Favicon from  <a href="https://www.freepik.com/icon/herbal-tea_10812632#fromView=search&page=1&position=54&uuid=24e50b5d-d56e-4b71-a971-f5a242ddc937">Icon by Satawat Anukul</a> and generated through https://favicon.io/favicon-converter/ 
 
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
+Both got code and got inspired by Code Institutes Love Running Project and Coders Coffeehouse Project, including header and nav-menu.
 
 ### Content 
 
