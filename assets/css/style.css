@@ -17,15 +17,24 @@ header {
     align-items: baseline;
     width: 100%;
     z-index: 100;
+    padding: 0 1rem;
+    box-shadow: 0 3px 3px darkgray;
+}
+
+header a {
+    text-decoration: none;
+    color: inherit;
 }
 
 body {
     min-height: 100vh;
+    flex-direction: column;
 }
 
-
+/* Main content (between header and footer)*/
 main {
     background-color: blue;
+    flex: 1 0 auto;
 }
 
 footer {
@@ -39,6 +48,8 @@ footer {
 
 h1 {
     font-size: x-large;
+    text-transform: uppercase;
+    font-weight: bold;
 }
 
 /* Navbar with dropdown */
@@ -51,4 +62,10 @@ nav {
 /* Nav menu */
 #nav-menu:checked~nav {
     display: block;
+}
+
+#menu {
+list-style-type: none;
+font-weight: bold;
+letter-spacing: 3px;
 }
