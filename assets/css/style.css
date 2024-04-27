@@ -5,11 +5,15 @@
 /* Asterisk selector for default styles to override browser */
 * {
     font-family: 'Alegreya Sans', sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
 }
 
 header {
     background-color: aquamarine;
     width: 100%;
+    position: sticky;
 }
 
 
