@@ -14,6 +14,13 @@ header {
     background-color: aquamarine;
     width: 100%;
     position: sticky;
+    align-items: baseline;
+    width: 100%;
+    z-index: 100;
+}
+
+body {
+    min-height: 100vh;
 }
 
 
@@ -32,4 +39,16 @@ footer {
 
 h1 {
     font-size: x-large;
+}
+
+/* Navbar with dropdown */
+nav {
+    position: absolute;
+    display: none;
+    width: 100;
+}
+
+/* Nav menu */
+#nav-menu:checked~nav {
+    display: block;
 }
