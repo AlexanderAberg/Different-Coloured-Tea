@@ -115,7 +115,7 @@ Both got code and got inspired by Code Institutes Love Running Project and Coder
 
 ### Media
 
-- The photos used on the home is from https://www.freepik.com black tea from https://www.freepik.com/author/8photo red and blue from https://www.freepik.com/author/azerbaijan-stockers Ooolong from https://www.freepik.com/author/jcomp green, white and yellow from the site owner
+- The photos used on the home is from https://www.freepik.com black tea from https://www.freepik.com/author/8photo red and blue tea from https://www.freepik.com/author/azerbaijan-stockers Ooolong tea from https://www.freepik.com/author/jcomp green, white and yellow tea from the site owner and purple tea from https://bluetea.co.in/blogs/news/purple-tea-the-perfect-floral-tea# I have permission to use all of them for this project.
 - The images used for the gallery page were taken from this other open source site8photo
 
 
