@@ -19,7 +19,7 @@ header {
     z-index: 100;
     padding: 0 1rem;
     box-shadow: 0 3px 3px darkgray;
-    display:flex; 
+    display: flex; 
     justify-content: space-between;
 }
 
@@ -44,6 +44,9 @@ main {
 
 footer {
      background-color: brown;
+     width: 100%;
+     position: sticky;
+     display: flex;
     }
 
 #logo {
@@ -104,7 +107,7 @@ margin-bottom: 1em;
     color: lightslategray;
 }
 
-
+/* home page including its photos */
 #home {
     line-height: 0;
     display: flex;
