@@ -125,3 +125,8 @@ margin-bottom: 1em;
     display: flex;
    
 }
+
+/* hidden but it should still be known that the heading exist */
+.hidden {
+    display: none;
+}
