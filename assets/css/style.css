@@ -21,6 +21,7 @@ header {
     box-shadow: 0 3px 3px darkgray;
     display: flex; 
     justify-content: space-between;
+    top: 0;
 }
 
 header a {
@@ -47,6 +48,7 @@ footer {
      width: 100%;
      position: sticky;
      display: flex;
+     bottom: 0;
     }
 
 #logo {
