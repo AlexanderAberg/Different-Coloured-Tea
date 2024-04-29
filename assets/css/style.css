@@ -33,6 +33,7 @@ body {
     min-height: 100vh;
     flex-direction: column;
     display: flex;
+    color: slateblue;
 }
 
 /* Main content (between header and footer)*/
@@ -105,9 +106,10 @@ margin-bottom: 1em;
 }
 
 #social-media i {
-    padding: 6%;
+    padding: 2%;
     font-size: 180%;
     color: lightslategray;
+    padding-left: 18vw;
 }
 
 /* home page including its photos */
@@ -192,4 +194,63 @@ input[type=submit] {
 input[type=reset] {
     border-color: darkmagenta;
     color: darkred;
+}
+
+/* Media query large landscape phones, small tablets and larger 625px and up */
+@media screen and (min-width: 625px) {
+
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 1rem;
+    }
+
+    #menu {
+        display: flex;
+    }
+
+    #menu > li {
+        padding-left: 1rem;
+    }
+
+    .nav-menu-label {
+        display: none;
+    }
+
+    #photos {
+      
+    }
+
+/* Contact Us */
+    form {
+        width: 40%;
+        left: 30%;
+        font-size: larger;
+    }
+
+    input[type=submit], input[type:reset] {
+        
+    }
+}
+
+/*Media query computers 1024px and up */
+@media screen and (min-width: 1024px) {
+
+    #photos {
+        
+
+    }
+
+/* Contact Us */
+    form {
+        font-size: xx-large;
+        width: 20%;
+        left: 40%;
+    }
+
+    input[type=submit], input[type:reset] {
+        
+    }
 }
