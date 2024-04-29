@@ -174,3 +174,22 @@ margin-bottom: 1em;
     height: 30vh;
     width: 100%;
 }
+
+form {
+    width: 60%;
+    position: fixed;
+    align-self: center;
+    top: 28%;
+    color: rgb(163, 190, 194);
+    border: color rgb(163, 190, 194);
+}
+
+input[type=submit] {
+    border-color: lightseagreen;
+    color: green;
+}
+
+input[type=reset] {
+    border-color: darkmagenta;
+    color: darkred;
+}
