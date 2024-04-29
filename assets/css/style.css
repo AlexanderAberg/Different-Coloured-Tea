@@ -171,6 +171,6 @@ margin-bottom: 1em;
 #contact-us {
     background: url("../images/background.jpg") no-repeat center center/cover;
     position: relative;
-    height: 600px;
+    height: 30vh;
     width: 100%;
 }
