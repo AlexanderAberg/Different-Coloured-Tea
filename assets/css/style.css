@@ -11,7 +11,7 @@
 }
 
 header {
-    background-color: aquamarine;
+    background-color: black;
     width: 100%;
     position: sticky;
     align-items: baseline;
@@ -45,7 +45,7 @@ main {
 }
 
 footer {
-     background-color: brown;
+     background-color: black;
      width: 100%;
      position: sticky;
      display: flex;
@@ -109,7 +109,7 @@ margin-bottom: 1em;
     padding: 2%;
     font-size: 180%;
     color: lightslategray;
-    padding-left: 18vw;
+    padding-left: 17vw;
 }
 
 /* home page including its photos */
@@ -196,15 +196,13 @@ input[type=reset] {
     color: darkred;
 }
 
-/* Media query large landscape phones, small tablets and larger 625px and up */
-@media screen and (min-width: 625px) {
+/* Media query large landscape phones, small tablets and larger 645px and up */
+@media screen and (min-width: 645px) {
 
     nav {
         display: block;
         position: relative;
-        box-shadow: none;
         width: fit-content;
-        padding-right: 1rem;
     }
 
     #menu {
@@ -212,7 +210,7 @@ input[type=reset] {
     }
 
     #menu > li {
-        padding-left: 1rem;
+        padding-left: 3em;
     }
 
     .nav-menu-label {
