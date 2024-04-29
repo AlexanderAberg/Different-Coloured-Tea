@@ -46,6 +46,36 @@
             <h2>Contact Us</h2>
             </div>
             <section>
+                <form action="https://formdump.codeinstitute.net" method="POST">
+                    <fieldset>
+                        <label>Contact Form</label>
+                        <div>
+                            <label for="fname-field" class="label-block">First Name</label>
+                            <input id="fname-field" type="text" name="first_name" placeholder="First name" required>
+                        </div>
+                        <div>
+                            <label for="lname-field" class="label-block">Last Name</label>
+                            <input id="lname-field" type="text" name="last_name" placeholder="Last name" required>
+                        </div>
+                        <div>
+                            <label for="email-field" class="label-block">Email Address</label>
+                            <input id="email-field" type="email" name="email" placeholder="Email Address" required>
+                        </div>
+                            <p>Will you attend the event?</p>
+
+                            <label for="event-yes-field" >Yes</label>
+                            <input id="event-yes-field" type="radio" name="event" value="yes" required>
+
+                            <label for="event-no-field" >No</label>
+                            <input id="event-no-field" type="radio" name="event" value="no" required>
+                        <div>
+                            <label for="save-my-information">Save My Information!</label>
+                            <input type="checkbox" id="save-my-information" name="save-my-information">
+                        </div>
+                    </fieldset>
+                    <input type="submit" class="label-block" value="Submit">
+                    <input type="reset" value="Reset">
+                </form>
 
             </section>
 
