@@ -37,7 +37,7 @@ body {
 
 /* Main content (between header and footer)*/
 main {
-    background-color: blue;
+    background-color: rgba(127, 102, 79, 0.406);
     /* Make the area larger to push footer down */
     flex: 1 0 auto;
     display: flex;
@@ -63,7 +63,8 @@ h1 {
 }
 
 h2 {
-    font-size: 3vh;
+    font-size: 2.8vh;
+    text-transform: uppercase;
 }
 
 /* Navbar with dropdown */
@@ -131,4 +132,37 @@ margin-bottom: 1em;
 /* hidden but it should still be known that the heading exist */
 .hidden {
     display: none;
+}
+
+/* About Tea section */
+#black {
+    color: black;
+}
+
+#green {
+    color: darkgreen;
+}
+
+#red {
+    color: rgb(243, 8, 8);
+}
+
+#white {
+    color: white;
+}
+
+#yellow {
+    color: yellow;
+}
+
+#oolong {
+    color: rgba(108, 117, 126, 0.847)
+}
+
+#blue {
+    color: blue;
+}
+
+#purple {
+    color: purple;
 }
