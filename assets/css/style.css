@@ -255,10 +255,6 @@ input[type=reset] {
     input {
         font-size: x-large;
     }
-
-    .button {
-        font-size: xlarge;
-    }
 }
 
 /*Media query computers 1290px and up */
@@ -274,8 +270,4 @@ input[type=reset] {
     input {
         font-size: xx-large;
     } 
-
-    .button {
-        size: 10vh;
-    }
 }
