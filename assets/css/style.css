@@ -184,8 +184,9 @@ form {
     position: fixed;
     align-self: center;
     top: 28%;
-    color: rgb(163, 190, 194);
-    border-color: rgb(163, 190, 194);
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 1vh 1vw;
 }
 
 input[type=submit] {
