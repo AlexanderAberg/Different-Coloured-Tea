@@ -117,6 +117,7 @@ margin-bottom: 1em;
     line-height: 0;
     display: flex;
     flex-direction: column;
+    width: 100%;
 }
 
 #photos {
@@ -196,8 +197,24 @@ input[type=reset] {
     color: darkred;
 }
 
-/* Media query large landscape phones, small tablets and larger 645px and up */
+/* added by tutor */
+.photo-container img{
+    width: 100%;
+}
+/* added by tutor */
+
+
+/* Media query large landscape phones, small tablets 645px and up */
 @media screen and (min-width: 645px) {
+
+/* added by tutor */
+
+    .photo-container img {
+        flex: 1; /* Allow images to grow and shrink equally within their container */
+        max-width: 50%; /* Each image takes up half of the container's width */
+    }
+/* added by tutor */
+
 
     nav {
         display: block;
@@ -218,7 +235,14 @@ input[type=reset] {
     }
 
     #photos {
-      
+      column-count: 2;
+      flex: row;
+    }
+
+    .photo-container {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
     }
 
 /* Contact Us */
@@ -227,19 +251,14 @@ input[type=reset] {
         left: 30%;
         font-size: larger;
     }
-
+/* 
     input[type=submit], input[type:reset] {
         
-    }
+    } */
 }
 
-/*Media query computers 1024px and up */
+/*Media query computers 1290px and up */
 @media screen and (min-width: 1024px) {
-
-    #photos {
-        
-
-    }
 
 /* Contact Us */
     form {
@@ -248,7 +267,7 @@ input[type=reset] {
         left: 40%;
     }
 
-    input[type=submit], input[type:reset] {
+    /* input[type=submit], input[type:reset] {
         
-    }
+    } */
 }
