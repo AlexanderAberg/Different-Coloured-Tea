@@ -38,7 +38,7 @@ body {
 
 /* Main content (between header and footer)*/
 main {
-    background-color: rgba(127, 102, 79, 0.406);
+    background-color: rgb(200, 4, 154);
     /* Make the area larger to push footer down */
     flex: 1 0 auto;
     display: flex;
@@ -67,6 +67,7 @@ h2 {
     font-size: 2.8vh;
     text-transform: uppercase;
     text-align: center;
+    color: darkgray;
 }
 
 h3 {
@@ -145,42 +146,42 @@ margin-bottom: 1em;
 
 /* About Tea section */
 #black {
-    background-color: black;
+    background-color: #0f0d0d;
     color: white;
 }
 
 #green {
-    background-color: darkgreen;
+    background-color: #68c4af;
     color: black;
 }
 
 #red {
-    background-color: rgb(243, 8, 8);
+    background-color: #ff7477;
     color: black;
 }
 
 #white {
-    background-color: white;
+    background-color: #fefeff;
     color: black;
 }
 
 #yellow {
-    background-color: yellow;
+    background-color: #eaf89a;
     color: black;
 }
 
 #oolong {
-    background-color: rgba(108, 117, 126, 0.847);
+    background-color: #d4afb9;
     color: black;
 }
 
 #blue {
-    background-color: blue;
+    background-color: #1b85b8;
     color: black;
 }
 
 #purple {
-    background-color: purple;
+    background-color: #dfb2f4;
     color: black;
 }
 
