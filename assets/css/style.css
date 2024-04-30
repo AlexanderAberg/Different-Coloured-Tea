@@ -145,35 +145,43 @@ margin-bottom: 1em;
 
 /* About Tea section */
 #black {
-    color: black;
-}
-
-#green {
-    color: darkgreen;
-}
-
-#red {
-    color: rgb(243, 8, 8);
-}
-
-#white {
+    background-color: black;
     color: white;
 }
 
+#green {
+    background-color: darkgreen;
+    color: black;
+}
+
+#red {
+    background-color: rgb(243, 8, 8);
+    color: black;
+}
+
+#white {
+    background-color: white;
+    color: black;
+}
+
 #yellow {
-    color: yellow;
+    background-color: yellow;
+    color: black;
 }
 
 #oolong {
-    color: rgba(108, 117, 126, 0.847)
+    background-color: rgba(108, 117, 126, 0.847);
+    color: black;
 }
 
 #blue {
-    color: blue;
+    background-color: blue;
+    color: black;
 }
 
 #purple {
-    color: purple;
+    background-color: purple;
+    color: black;
 }
 
 /* Contact Us section */
