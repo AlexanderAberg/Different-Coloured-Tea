@@ -249,12 +249,16 @@ input[type=reset] {
     form {
         width: 40%;
         left: 30%;
-        font-size: larger;
+        font-size: x-large;
     }
-/* 
-    input[type=submit], input[type=reset] {
-        
-    } */
+    
+    input {
+        font-size: x-large;
+    }
+
+    .button {
+        font-size: xlarge;
+    }
 }
 
 /*Media query computers 1290px and up */
@@ -267,7 +271,11 @@ input[type=reset] {
         left: 40%;
     }
 
-    /* input[type=submit], input[type=reset] {
-        
-    } */
+    input {
+        font-size: xx-large;
+    } 
+
+    .button {
+        size: 10vh;
+    }
 }
