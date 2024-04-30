@@ -106,6 +106,7 @@ The live link can be found here - https://code-institute-org.github.io/love-runn
 Favicon from  <a href="https://www.freepik.com/icon/herbal-tea_10812632#fromView=search&page=1&position=54&uuid=24e50b5d-d56e-4b71-a971-f5a242ddc937">Icon by Satawat Anukul</a> and generated through https://favicon.io/favicon-converter/ 
 
 Both got code and got inspired by Code Institutes Love Running Project and Coders Coffeehouse Project, including header and nav-menu.
+Also got help, inspiration and support from my mentor Rory Patrick and help with code from a few Tutors at Code Institute.
 
 ### Content 
 
