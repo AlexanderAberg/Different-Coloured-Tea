@@ -16,19 +16,19 @@ The visitor will find out that there is other tea than black and green tea also 
 
 <img src="assets/images/navbar.png" alt="Nav bar">
 
-- __The landing page image__
+- __The landing page images__
 
   - The landing page has 8 different coloured tea on it, with 1-2 pictures in a row depending on screen size and it is fully responsive in image size also. 
   - This page will make the visitor see all kind of colours on tea that they might not know that it existed.
 
 <img src="assets/images/landingpage.png" alt="Landing Page">
 
-- __Club Ethos Section__
+- __About Tea__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+  - About Tea section will give a short description of the different coloured tea. 
+  - I have put different coloured background behind every div related to a specific tea colour. 
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+<img src="assets/images/abouttea.png" alt="About Tea">
 
 - __Meetup Times section__
 
