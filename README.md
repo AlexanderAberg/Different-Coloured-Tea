@@ -31,7 +31,7 @@ The visitor will find out that there is other tea than black and green tea also 
 - __About Tea__
 
   - About Tea page will give a short description of the different coloured tea. 
-  - I have put different coloured background behind every div related to a specific tea colour. 
+  - I have put different coloured background behind every div related to a specific tea colour, it should be the same main colour as the tea but with a more friendly palette. 
 
 <img src="assets/images/abouttea.png" alt="About Tea">
 
@@ -137,19 +137,11 @@ Got inspiration and some help from our Slack Team Group especially Lorenz.
 - GitHub for storing the project and deploying it
 - Gitpod for project development
 
-## Other General Project Advice
+### Colours & Text
 
-Below you will find a couple of extra tips that may be helpful when completing your project. Remember that each of these projects will become part of your final portfolio so it’s important to allow enough time to showcase your best work! 
+- Did choose dark colours for header, footer, menu etc. to fit with the pictures and wanted the background of the h2 in Home and the form in Contact Us to have opacity so you can see through without covering the images completely.
+- The colour for About Tea is pastel colour to make it friendlier to the eyes compared to sharp colours, the white and black doesn't really exist as pastel so I tried to make them friendlier also which you can see on the colours and in the css picture below.
+- Used Font style that is seperate between the logo, h1 and h2 compared to h3 and text with backup font for browsers without the font, the text colour in general is supposed to fit very well with the background colours that is why the background colour for tea has white text except for black that instead has white text.
 
-- One of the most basic elements of keeping a healthy commit history is with the commit message. When getting started with your project, read through [this article](https://chris.beams.io/posts/git-commit/) by Chris Beams on How to Write  a Git Commit Message 
-  - Make sure to keep the messages in the imperative mood 
-
-- When naming the files in your project directory, make sure to consider meaningful naming of files, point to specific names and sections of content.
-  - For example, instead of naming an image used ‘image1.png’ consider naming it ‘landing_page_img.png’. This will ensure that there are clear file paths kept. 
-
-- Do some extra research on good and bad coding practices, there are a handful of useful articles to read, consider reviewing the following list when getting started:
-  - [Writing Your Best Code](https://learn.shayhowe.com/html-css/writing-your-best-code/)
-  - [HTML & CSS Coding Best Practices](https://medium.com/@inceptiondj.info/html-css-coding-best-practice-fadb9870a00f)
-  - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html#General)
-
-Getting started with your Portfolio Projects can be daunting, planning your project can make it a lot easier to tackle, take small steps to reach the final outcome and enjoy the process!  
+<img src="assets/images/colours.png" alt="Pastel Colours">
+<img src="assets/images/colours.png" alt="Pastel Colours">
