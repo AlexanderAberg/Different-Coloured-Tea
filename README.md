@@ -115,6 +115,12 @@ Got inspiration and some help from our Slack Team Group especially Lorenz.
 
 ### Wireframe
 
+Used Balsamiq for Wireframe, the Wireframe has some content that is missing in the project because of lack of time, see also Features Left to Implement in this README, the pictures became also better than expected so therefore will wireframe for home have more images on row and different setup than the actual project also the wireframe is not to scale especially computer.
+
+<img src="assets/images/wireframe-phone.png" alt="Wireframe for Phone">
+<img src="assets/images/wireframe-tablet.png" alt="Wireframe for Tablet">
+<img src="assets/images/wireframe-computer.png" alt="Wireframe for Computer">
+
 ## Other General Project Advice
 
 Below you will find a couple of extra tips that may be helpful when completing your project. Remember that each of these projects will become part of your final portfolio so it’s important to allow enough time to showcase your best work! 
