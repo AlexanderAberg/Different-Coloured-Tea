@@ -134,11 +134,6 @@ margin-bottom: 1em;
     
 }
 
-#purple-tea {
-    display: flex;
-   
-}
-
 /* hidden but it should still be known that the heading exist */
 .hidden {
     display: none;
@@ -148,41 +143,49 @@ margin-bottom: 1em;
 #black {
     background-color: #0f0d0d;
     color: white;
+    width: 100vw;
 }
 
 #green {
     background-color: #68c4af;
     color: black;
+    width: 100vw;
 }
 
 #red {
     background-color: #ff7477;
     color: black;
+    width: 100vw;
 }
 
 #white {
     background-color: #fefeff;
     color: black;
+    width: 100vw;
 }
 
 #yellow {
     background-color: #eaf89a;
     color: black;
+    width: 100vw;
 }
 
 #oolong {
     background-color: #d4afb9;
     color: black;
+    width: 100vw;
 }
 
 #blue {
     background-color: #1b85b8;
     color: black;
+    width: 100vw;
 }
 
 #purple {
     background-color: #dfb2f4;
     color: black;
+    width: 100vw;
 }
 
 /* Contact Us section */
