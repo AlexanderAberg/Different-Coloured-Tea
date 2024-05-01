@@ -1,48 +1,40 @@
 # Different Coloured Tea
 
 Different Coloured Tea is a website to spread awareness to tea drinkers that only had black tea or black and green tea.
-The visitor will find out that there is other tea than black and green tea also red (rooibos), white, yellow, blue and purple tea, I will also mention Oolong tea that is often a bit grayish brown with a hint of yellow often called in between black and green, the site does not plan to mention for example the huge quantity of tea from each colour or herbal tea, it will also include pictures of the different colours..
+The visitor will find out that there is other tea than black and green tea also red (rooibos), white, yellow, blue and purple tea, I will also mention Oolong tea that is often a bit grayish brown with a hint of yellow often called in between black and green, the site does not plan to mention for example the huge quantity of tea from each colour or herbal tea, it will also include pictures of the different colours.
 
 <img src="assets/images/amiresponsive.png" alt="Responsive Screens">
 
 # UX
 ### Visitor Goals
 The expected visitor is:
-- Visitors that like tea and want to broaden their horizon
-- Visitors that are curious what is out there in the world of tea
-- Visitors that wants to know more and therefore will contact us
+- Visitors that like tea and want to broaden their horizon.
+- Visitors that are curious what is out there in the world of tea.
+- Visitors that wants to know more and therefore will contact us.
 
 Visitors goals are:
-- See pictures and information about colourful tea and get inspired
-- To see what exists in the world of tea
-- Contact the people behind the website
+- See pictures and information about colourful tea and get inspired.
+- To see what exists in the world of tea.
+- Contact the people behind the website.
 
-Different Coloured Tea fills these needs by:
-- Opening with a dramatic image and introducing the photographer immediately.
-- The map and gallery are highlighted on the main page to lead users to the images wherever they click.
-- Highlighting the Contact page in the header and footer.
+How Different Coloured Tea fills the needs:
+- You can see the coloured tea on the pictures right at the landing page and also on the Contact Form.
+- About Tea has some short information about the different coloured tea.
+- The Contact Us page makes it possible to contact us.
+- Easy to reach everything form the header and you can find our social media in the footer, you also see the footer all the time.
 
 
 ### Business Goals
-The Business Goals of Horizon Photography are:
-- Display and highlight the photographer's work in a unique way.
-- Gain subscribers through the newsletter.
-- Provide easy ways to communicate with the photographer.
-- Gain interest and connect with social media.
-- Connect to where the photos are sold.
+The Business Goals are:
+- Spread awareness of the more uncommon tea colours.
+- Get in touch with other tea drinkers that are not satisfied with your normal tea.
+- If enough people will be aware the bigger chance that you will find the more rare tea in your city.
 
 ### User Stories
-1. As a user interested in photography, I expect to see lots of different beautiful photos.
-0. I expect the photos to be highlighted first and foremost.
-0. As a user interested in travel, I expect to see different countries on display.
-0. As a user interested in different countries, I expect to see information on the countries.
-0. As a person interested in hiring a photographer, I expect to find an easy way to contact the photographer.
-0. I expect to hear a little about the photographer if I am interested.
-0. I expect to be able to follow the photographer through social media.
-0. I would like to be able to hear about the photographer's updates through social media.
-0. If I were interested in buying a photo, I expect to know where.
+1. As a curious tea drinker I expect to find out about different kind of tea.
+0. I expect to get in touch with other people with my interest in more rare tea colours.
+0. I expect to be able to have a reference so I can spread awareness myself
 
-- 
 
 ### Existing Features
 
