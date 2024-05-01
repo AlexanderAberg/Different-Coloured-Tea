@@ -100,19 +100,20 @@ Favicon from  <a href="https://www.freepik.com/icon/herbal-tea_10812632#fromView
 
 Both got code and got inspired by Code Institutes Love Running Project and Coders Coffeehouse Project, including header and nav-menu.
 Also got help, inspiration and support from my mentor Rory Patrick and help with code from a few Tutors at Code Institute.
+Got inspiration and some help from our Slack Team Group especially Lorenz.
 
 ### Content 
 
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- Information is taken from tea pages and Wikipedia during the years.
+- All html and css was taken from the Code Institute education, big part from Love Running, Coders Coffeehouse and their Tutors
+- The icons in the footer and the menu-bar were taken from [Font Awesome](https://fontawesome.com/)
 
 ### Media
 
 - The photos used on the home is from https://www.freepik.com black tea from https://www.freepik.com/author/8photo red and blue tea from https://www.freepik.com/author/azerbaijan-stockers Ooolong tea from https://www.freepik.com/author/jcomp green, white and yellow tea from the site owner and purple tea from https://bluetea.co.in/blogs/news/purple-tea-the-perfect-floral-tea# I have permission to use all of them for this project.
 - Responsive mockup from https://ui.dev/amiresponsive?url=https://alexanderaberg.github.io/Different-Coloured-Tea/ 
 
-Congratulations on completing your Readme, you have made another big stride in the direction of being a developer! 
+### Wireframe
 
 ## Other General Project Advice
 
