@@ -18,7 +18,7 @@ header {
     width: 100%;
     z-index: 100;
     padding: 0 1rem;
-    box-shadow: 0 3px 3px darkgray;
+    box-shadow: 0 3px 3px rgb(242, 242, 242);
     display: flex; 
     justify-content: space-between;
     top: 0;
@@ -42,6 +42,14 @@ main {
     /* Make the area larger to push footer down */
     flex: 1 0 auto;
     display: flex;
+}
+
+.welcome {
+    z-index: 99;
+    background-color: #00000086;
+    position: absolute;
+    top: 12vh;
+    color: white;
 }
 
 footer {
@@ -68,7 +76,7 @@ h2 {
     font-size: 2.8vh;
     text-transform: uppercase;
     text-align: center;
-    color: darkgray;
+    color: rgb(241, 238, 238);
     font-family: 'Sawarabi Mincho', helvetica;
 }
 
