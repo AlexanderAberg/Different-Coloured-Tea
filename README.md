@@ -5,12 +5,49 @@ The visitor will find out that there is other tea than black and green tea also 
 
 <img src="assets/images/amiresponsive.png" alt="Responsive Screens">
 
-## Features 
+# UX
+### Visitor Goals
+The expected visitor is:
+- Visitors that like tea and want to broaden their horizon
+- Visitors that are curious what is out there in the world of tea
+- Visitors that wants to know more and therefore will contact us
+
+Visitors goals are:
+- See pictures and information about colourful tea and get inspired
+- To see what exists in the world of tea
+- Contact the people behind the website
+
+Different Coloured Tea fills these needs by:
+- Opening with a dramatic image and introducing the photographer immediately.
+- The map and gallery are highlighted on the main page to lead users to the images wherever they click.
+- Highlighting the Contact page in the header and footer.
+
+
+### Business Goals
+The Business Goals of Horizon Photography are:
+- Display and highlight the photographer's work in a unique way.
+- Gain subscribers through the newsletter.
+- Provide easy ways to communicate with the photographer.
+- Gain interest and connect with social media.
+- Connect to where the photos are sold.
+
+### User Stories
+1. As a user interested in photography, I expect to see lots of different beautiful photos.
+0. I expect the photos to be highlighted first and foremost.
+0. As a user interested in travel, I expect to see different countries on display.
+0. As a user interested in different countries, I expect to see information on the countries.
+0. As a person interested in hiring a photographer, I expect to find an easy way to contact the photographer.
+0. I expect to hear a little about the photographer if I am interested.
+0. I expect to be able to follow the photographer through social media.
+0. I would like to be able to hear about the photographer's updates through social media.
+0. If I were interested in buying a photo, I expect to know where.
+
+- 
 
 ### Existing Features
 
 - __Header__
-  -Header has a menu with a nav bar or text on bigger screens and the website name in h1.
+  - Header has a menu with a nav bar or text on bigger screens and the website name in h1.
 
 <img src="assets/images/header.png" alt="Header">
 
@@ -74,12 +111,12 @@ I have tested on Chrome, Firefox and Edge without a problem, checked on many dif
 
 ### Unfixed and fixed Bugs
 
-Solved all bugs.
-Had some issues with fixing the header and did it with the help of a tutor same thing with photos on larger screens which you can see in the css.
-I did much trial and error with forms, pictures, header and footer and went through many colours on About Tea until my mentor suggested that I use the tea colour as background which made it possible to have text and background fit together better, I also did choose black as background for menu bar and contact form, the contact form I still wanted to see the background through which I sorted with the help of opacity.
-I also got some help from my slack team for the header.
+- Solved all known bugs.
+- I Had some issues with fixing the header and did it with the help of a tutor same thing with photos on larger screens which you can see in the css.
+- I did much trial and error with forms, pictures, header and footer and went through many colours on About Tea until my mentor suggested that I use the tea colour as background which made it possible to have text and background fit together better, I also did choose black as background for menu bar and contact form, the contact form I still wanted to see the background through which I sorted with the help of opacity.
+- I also got some help from my slack team for the header.
 
-I would say that the header is by far what I had biggest problems with and the responsivness on larger screens for images on home.
+- I would say that the header is by far what I had biggest problems with and the responsivness on larger screens for images on home.
 
 ## Deployment
 
@@ -91,16 +128,18 @@ I would say that the header is by far what I had biggest problems with and the r
   - In GitHub you can open every seperate file including html. css. images and even favicons and see the folder structure.
   - It is possible to check the commit history in github-pages under Deployment to the right
 
-The live link can be found here - https://github.com/AlexanderAberg/Different-Coloured-Tea.git
+  - Link to the live version of the project can be found here: - https://github.com/AlexanderAberg/Different-Coloured-Tea.git
 
 
 ## Credits 
 
 Favicon from  <a href="https://www.freepik.com/icon/herbal-tea_10812632#fromView=search&page=1&position=54&uuid=24e50b5d-d56e-4b71-a971-f5a242ddc937">Icon by Satawat Anukul</a> and generated through https://favicon.io/favicon-converter/ 
 
-Both got code and got inspired by Code Institutes Love Running Project and Coders Coffeehouse Project, including header and nav-menu.
-Also got help, inspiration and support from my mentor Rory Patrick and help with code from a few Tutors at Code Institute.
-Got inspiration and some help from our Slack Team Group especially Lorenz.
+- Both got code and got inspired by Code Institutes Love Running Project and Coders Coffeehouse Project, including header and nav-menu.
+- Also got help, inspiration and support from my mentor Rory Patrick and help with code from a few Tutors at Code Institute.
+- Got inspiration and some help from our Slack Team Group especially Lorenz.
+- Template for this README is taken from Love Running and from my mentors project Horizon.
+
 
 ### Content 
 
