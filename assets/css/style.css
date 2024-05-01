@@ -1,6 +1,6 @@
 /* Google fonts import */
 
-@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@0,100;0,300;0,400;0,500;0,700;0,800;0,900;1,100;1,300;1,400;1,500;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@0,100;0,300;0,400;0,500;0,700;0,800;0,900;1,100;1,300;1,400;1,500;1,700;1,800;1,900&family=Sawarabi+Mincho&display=swap');
 
 /* Asterisk selector for default styles to override browser */
 * {
@@ -54,13 +54,14 @@ footer {
 
 #logo {
     color: darkgray;
-     
+    font-family: 'Sawarabi Mincho', helvetica;
 }
 
 h1 {
     font-size: 3.5vh;
     text-transform: uppercase;
     font-weight: bold;
+    font-family: 'Sawarabi Mincho', helvetica;
 }
 
 h2 {
@@ -68,6 +69,7 @@ h2 {
     text-transform: uppercase;
     text-align: center;
     color: darkgray;
+    font-family: 'Sawarabi Mincho', helvetica;
 }
 
 h3 {
