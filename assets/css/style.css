@@ -10,6 +10,7 @@
     box-sizing: border-box;
 }
 
+/* Header */
 header {
     background-color: black;
     width: 100%;
@@ -29,6 +30,7 @@ header a {
     color: inherit;
 }
 
+/* Body including header and footer */
 body {
     min-height: 100vh;
     flex-direction: column;
@@ -44,6 +46,7 @@ main {
     display: flex;
 }
 
+/* Welcome message just under header */
 .welcome {
     z-index: 99;
     background-color: #00000086;
@@ -52,14 +55,8 @@ main {
     color: white;
 }
 
-footer {
-     background-color: black;
-     width: 100%;
-     position: sticky;
-     display: flex;
-     bottom: 0;
-    }
 
+/* Part with different text including logo and h1-h3 */
 #logo {
     color: darkgray;
     font-family: 'Sawarabi Mincho', helvetica;
@@ -113,7 +110,15 @@ background-color: black;
 margin-bottom: 1em;
 }
 
-/*Footer*/
+/* Footer */
+footer {
+    background-color: black;
+    width: 100%;
+    position: sticky;
+    display: flex;
+    bottom: 0;
+   }
+
 #social-media {
     display: flex;
     justify-content: space-evenly;
@@ -149,53 +154,45 @@ margin-bottom: 1em;
     display: none;
 }
 
-/* About Tea section */
+/* About Tea colour section */
 #black {
     background-color: #0f0d0d;
     color: white;
-    width: 100%;
 }
 
 #green {
     background-color: #68c4af;
     color: black;
-    width: 100%;
 }
 
 #red {
     background-color: #ff7477;
     color: black;
-    width: 100%;
 }
 
 #white {
     background-color: #fefeff;
     color: black;
-    width: 100%;
 }
 
 #yellow {
     background-color: #eaf89a;
     color: black;
-    width: 100%;
 }
 
 #oolong {
     background-color: #d4afb9;
     color: black;
-    width: 100%;
 }
 
 #blue {
     background-color: #1b85b8;
     color: black;
-    width: 100vw;
 }
 
 #purple {
     background-color: #dfb2f4;
     color: black;
-    width: 100vw;
 }
 
 /* Contact Us section */
@@ -244,7 +241,7 @@ input[type=reset] {
     }
 /* added by tutor */
 
-
+/* Navbar and menu */
     nav {
         display: block;
         position: relative;
@@ -263,6 +260,7 @@ input[type=reset] {
         display: none;
     }
 
+/* Photos to make photos more responsive on larger screens */
     #photos {
       column-count: 2;
     }
@@ -276,6 +274,7 @@ input[type=reset] {
 /* About Tea */
     #black, #green, #red, #white, #yellow, #oolong, #blue, #purple {
         height: 11vh;
+        width: 100%;
     }
 
 /* Contact Us */
