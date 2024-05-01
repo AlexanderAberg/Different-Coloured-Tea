@@ -110,16 +110,32 @@ Got inspiration and some help from our Slack Team Group especially Lorenz.
 
 ### Media
 
-- The photos used on the home is from https://www.freepik.com black tea from https://www.freepik.com/author/8photo red and blue tea from https://www.freepik.com/author/azerbaijan-stockers Ooolong tea from https://www.freepik.com/author/jcomp green, white and yellow tea from the site owner and purple tea from https://bluetea.co.in/blogs/news/purple-tea-the-perfect-floral-tea# I have permission to use all of them for this project.
+- The photos used on the home is from https://www.freepik.com black tea from https://www.freepik.com/author/8photo red and blue tea from https://www.freepik.com/author/azerbaijan-stockers Ooolong tea from https://www.freepik.com/author/jcomp green, white, yellow tea and icon for Favicon from the site owner and purple tea from https://bluetea.co.in/blogs/news/purple-tea-the-perfect-floral-tea# I have permission to use all of them for this project, and converted Favicon here https://favicon.io/favicon-converter/ 
 - Responsive mockup from https://ui.dev/amiresponsive?url=https://alexanderaberg.github.io/Different-Coloured-Tea/ 
 
 ### Wireframe
 
-Used Balsamiq for Wireframe, the Wireframe has some content that is missing in the project because of lack of time, see also Features Left to Implement in this README, the pictures became also better than expected so therefore will wireframe for home have more images on row and different setup than the actual project also the wireframe is not to scale especially computer.
+- Used Balsamiq for Wireframe, the Wireframe has some content that is missing in the project because of lack of time, see also Features Left to Implement in this README, the pictures became also better than expected so therefore will wireframe for home have more images on row and different setup than the actual project also the wireframe is not to scale especially computer.
 
 <img src="assets/images/wireframe-phone.png" alt="Wireframe for Phone">
 <img src="assets/images/wireframe-tablet.png" alt="Wireframe for Tablet">
 <img src="assets/images/wireframe-computer.png" alt="Wireframe for Computer">
+
+### Technologies Used
+
+- HTML - For how the website with the pages is built and planned 
+- CSS - For all the styling
+- Images  - Freepik for Pictures except for purple tea that I got from bluetea mentioned in media
+- Fonts - From Google Fonts
+- Icons - From Fontawesome 
+- Education Tool- From the people at Codeinstitute
+- Wireframe - From Balsamiq 
+- Favicons - Icon from freepik and converted with Favicon.io
+- Mockup - Generated at amiresponsive 
+- Colours I mostly tested what fit together and got help from Lighthouse in Google dev tools to see if I should adjust further 
+- Google Devtools to check responsiveness and to check Lighthouse for Accessibility
+- GitHub for storing the project and deploying it
+- Gitpod for project development
 
 ## Other General Project Advice
 
@@ -136,4 +152,4 @@ Below you will find a couple of extra tips that may be helpful when completing y
   - [HTML & CSS Coding Best Practices](https://medium.com/@inceptiondj.info/html-css-coding-best-practice-fadb9870a00f)
   - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html#General)
 
-Getting started with your Portfolio Projects can be daunting, planning your project can make it a lot easier to tackle, take small steps to reach the final outcome and enjoy the process! 
+Getting started with your Portfolio Projects can be daunting, planning your project can make it a lot easier to tackle, take small steps to reach the final outcome and enjoy the process!  
