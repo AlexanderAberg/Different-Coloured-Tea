@@ -18,10 +18,10 @@ The visitor will find out that there is other tea than black and green tea also 
 
 - __The landing page image__
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+  - The landing page has 8 different coloured tea on it, with 1-2 pictures in a row depending on screen size and it is fully responsive in image size also. 
+  - This page will make the visitor see all kind of colours on tea that they might not know that it existed.
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+<img src="assets/images/landingpage.png" alt="Landing Page">
 
 - __Club Ethos Section__
 
