@@ -49,9 +49,6 @@ The visitor will find out that there is other tea than black and green tea also 
 
 <img src="assets/images/footer.png" alt="Footer">
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ### Features Left to Implement
 
@@ -66,9 +63,14 @@ I have tested on Chrome, Firefox and Edge without a problem, checked on many dif
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://alexanderaberg.github.io/Different-Coloured-Tea/index.html) Also checked About Tea and Contact Us pages without any errors.
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Falexanderaberg.github.io%2FDifferent-Coloured-Tea%2Findex.html) Also checked About Tea and Contact Us pages without any errors.
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Falexanderaberg.github.io%2FDifferent-Coloured-Tea%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv) it got validated as CSS Stage 3 +SVG!
+
+<img src="assets/images/validator-index.html.png" alt="Validator Index.html">
+<img src="assets/images/validator-about-tea.html.png" alt="Validator About Tea.html">
+<img src="assets/images/validator-contact-us.html.png" alt="Validator Contact Us.html">
+<img src="assets/images/validator-style.css.png" alt="Validator Style.css.html">
 
 ### Unfixed and fixed Bugs
 
