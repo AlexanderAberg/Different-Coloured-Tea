@@ -33,7 +33,7 @@ body {
     min-height: 100vh;
     flex-direction: column;
     display: flex;
-    color: slateblue;
+    color: rgb(183, 174, 240);
 }
 
 /* Main content (between header and footer)*/
