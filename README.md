@@ -18,24 +18,24 @@ The visitor will find out that there is other tea than black and green tea also 
 
 - __The landing page images__
 
-  - The landing page has 8 different coloured tea on it, with 1-2 pictures in a row depending on screen size and it is fully responsive in image size also. 
+  - The landing page or "Home" has 8 different coloured tea on it, with 1-2 pictures in a row depending on screen size and it is fully responsive in image size also. 
   - This page will make the visitor see all kind of colours on tea that they might not know that it existed.
 
 <img src="assets/images/landingpage.png" alt="Landing Page">
 
 - __About Tea__
 
-  - About Tea section will give a short description of the different coloured tea. 
+  - About Tea page will give a short description of the different coloured tea. 
   - I have put different coloured background behind every div related to a specific tea colour. 
 
 <img src="assets/images/abouttea.png" alt="About Tea">
 
-- __Meetup Times section__
+- __Contact Us__
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
+  - The Contact Us page has a contact form and a background picture that is fully responsive. 
+  - The form has a background with an opacity to make it see through while still making the text easy to read. 
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+<img src="assets/images/contactus.png" alt="Contact Us">
 
 - __The Footer__ 
 
