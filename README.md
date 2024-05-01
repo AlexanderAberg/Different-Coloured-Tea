@@ -110,6 +110,18 @@ I have tested on Chrome, Firefox and Edge without a problem, checked on many dif
 
 - I would say that the header is by far what I had biggest problems with and the responsivness on larger screens for images on home.
 
+### Quality Score through Google Devtools Lighthouse
+
+- Lighthouse testing on Chrome Incognito to prevent cookies and background cache to slow down.
+
+<img src="assets/images/lighthouse-index-phone.png" alt="Lighthouse Index Phone">
+<img src="assets/images/lighthouse-index-computer.png" alt="Lighthouse Index Computer">
+<img src="assets/images/lighthouse-abouttea-phone.png" alt="Lighthouse About Tea Phone">
+<img src="assets/images/lighthouse-abouttea-computer.png" alt="Lighthouse About Tea Computer">
+<img src="assets/images/lighthouse-contactus-phone.png" alt="Lighthouse Contact Us Phone">
+<img src="assets/images/lighthouse-contactus-computer.png" alt="Lighthouse Contact Us Computer">
+
+
 ## Deployment
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
