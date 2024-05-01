@@ -9,6 +9,11 @@ The visitor will find out that there is other tea than black and green tea also 
 
 ### Existing Features
 
+- __Header__
+  -Header has a menu with a nav bar or text on bigger screens and the website name in h1.
+
+<img src="assets/images/header.png" alt="Header">
+
 - __Navigation Bar__
 
   - The navigation bar can be found on all 3 pages and is fully responsive, it will turn between a bar or buttons depending on the size of the screen.
@@ -39,10 +44,10 @@ The visitor will find out that there is other tea than black and green tea also 
 
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - The footer can always be seen and has logos with links to Facebook, YouTube, Instagram and X. 
+  - The footer is both responsive and all the links works.
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+<img src="assets/images/footer.png" alt="Footer">
 
 For some/all of your features, you may choose to reference the specific project files that implement them.
 
