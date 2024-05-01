@@ -3,20 +3,18 @@
 Different Coloured Tea is a website to spread awareness to tea drinkers that only had black tea or black and green tea.
 The visitor will find out that there is other tea than black and green tea also red (rooibos), white, yellow, blue and purple tea, I will also mention Oolong tea that is often a bit grayish brown with a hint of yellow often called in between black and green, the site does not plan to mention for example the huge quantity of tea from each colour or herbal tea, it will also include pictures of the different colours..
 
-![Responsice Mockup] <img src="assets/images/amiresponsive.png" alt="Responsive Screens">
+<img src="assets/images/amiresponsive.png" alt="Responsive Screens">
 
 ## Features 
-
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 ### Existing Features
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+  - The navigation bar can be found on all 3 pages and is fully responsive, it will turn between a bar or buttons depending on the size of the screen.
+  - The bar will be visible even if you scroll down. 
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+<img src="assets/images/navbar.png" alt="Nav bar">
 
 - __The landing page image__
 
@@ -117,8 +115,7 @@ Also got help, inspiration and support from my mentor Rory Patrick and help with
 ### Media
 
 - The photos used on the home is from https://www.freepik.com black tea from https://www.freepik.com/author/8photo red and blue tea from https://www.freepik.com/author/azerbaijan-stockers Ooolong tea from https://www.freepik.com/author/jcomp green, white and yellow tea from the site owner and purple tea from https://bluetea.co.in/blogs/news/purple-tea-the-perfect-floral-tea# I have permission to use all of them for this project.
-- The images used for the gallery page were taken from this other open source site8photo
-
+- Responsive mockup from https://ui.dev/amiresponsive?url=https://alexanderaberg.github.io/Different-Coloured-Tea/ 
 
 Congratulations on completing your Readme, you have made another big stride in the direction of being a developer! 
 
