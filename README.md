@@ -103,7 +103,7 @@ I have tested on Chrome, Firefox and Edge without a problem, checked on many dif
 
 ### Unfixed and fixed Bugs
 
-- Solved all known bugs.
+- Solved all known bugs, except for the blue background behind the submit button in the form on the Contact Us page on phones (tested on iPhone 13 Pro), it looks correct in Google Dev Tools.
 - I Had some issues with fixing the header and did it with the help of a tutor same thing with photos on larger screens which you can see in the css.
 - I did much trial and error with forms, pictures, header and footer and went through many colours on About Tea until my mentor suggested that I use the tea colour as background which made it possible to have text and background fit together better, I also did choose black as background for menu bar and contact form, the contact form I still wanted to see the background through which I sorted with the help of opacity.
 - I also got some help from my slack team for the header.
